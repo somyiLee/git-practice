@@ -8,4 +8,6 @@
 
 - git commit?
  파일  수정 이력을  기록 
-   
+
+- git push?
+ 이력을 남긴 코드를 github에 업로드    
